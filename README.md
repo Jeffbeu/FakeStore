@@ -10,12 +10,6 @@
 > Website for deceit you can verify your status of the game with your ID you can edit this template add new functions add Api Deceit 
 
 
-## Install
-
-```sh
-npm install
-```
-
 ## Run tests
 
 ```sh
