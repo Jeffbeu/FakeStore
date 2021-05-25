@@ -7,7 +7,7 @@
   </a>
 </p>
 
-> Website for deceit you can verify your status of the game with your ID you can edit this template add new functions add Api Deceit 
+> Uma simples pagina e-commerce criado com HTML CSS Vanilla puro raiz para estudo do método fetch do VanillaJS para consumo de APIs e Json files a pagina e 100% responsiva usando CSS puro sem uso de framework 
 
 
 ## Run tests
